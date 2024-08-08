@@ -1,4 +1,4 @@
-### **News Category Prediction Project**
+##### **News Classifier**
 This project aims to scrape data from three news publishers, preprocess the text data, analyze it, and train a machine learning model to predict the category of news articles. The tools and libraries used include Selenium WebDriver, Beautiful Soup, NLTK, scikit-learn, and various others for data manipulation and visualization.
 
 ### **Table of Contents**
@@ -29,7 +29,7 @@ beautifulsoup4
 Installation
 Clone the repository:
 
-git clone https://github.com//news-category-prediction.git
+git clone https://github.com/YuLeWong2002/News-Classifier.git
 Install the required libraries:
 
 pip install numpy pandas nltk seaborn matplotlib python-dateutil scikit-learn joblib selenium beautifulsoup4
