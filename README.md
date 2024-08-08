@@ -1,4 +1,4 @@
-#### **News Classifier**
+### **News Classifier**
 This project aims to scrape data from three news publishers, preprocess the text data, analyze it, and train a machine learning model to predict the category of news articles. The tools and libraries used include Selenium WebDriver, Beautiful Soup, NLTK, scikit-learn, and various others for data manipulation and visualization.
 
 ### **Table of Contents**
